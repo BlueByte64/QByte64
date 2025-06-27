@@ -3,7 +3,6 @@
 - 💻 I like making Desktop programs
 - ✨ I’m looking to collaborate on basically any game or technology used in game development
 - 📫 How to reach me: u can DM me on discord
-- 😄 Pronouns: He/ Him
 - ⚡ Languages: C#(Favorite language), Java, web basics, python, lua, still learning c++
 
 <!---
